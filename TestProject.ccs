@@ -1,0 +1,27 @@
+<Solution>
+  <PropertyGroup Name="TestProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <PlistImageFolder Image="loginRes.png" PListFile="loginRes.plist" Name=".loginRes_PList.Dir">
+            <PlistImageFile Name="input_login_down.png" Key="input_login_down.png" />
+            <PlistImageFile Name="input_login_up.png" Key="input_login_up.png" />
+            <PlistImageFile Name="login_account_down.png" Key="login_account_down.png" />
+            <PlistImageFile Name="login_account_up.png" Key="login_account_up.png" />
+            <PlistImageFile Name="login_contact_down.png" Key="login_contact_down.png" />
+            <PlistImageFile Name="login_contact_up.png" Key="login_contact_up.png" />
+            <PlistImageFile Name="login_input.png" Key="login_input.png" />
+            <PlistImageFile Name="login_load.png" Key="login_load.png" />
+            <PlistImageFile Name="login_quick_btn.png" Key="login_quick_btn.png" />
+            <PlistImageFile Name="login_quick_down.png" Key="login_quick_down.png" />
+            <PlistImageFile Name="login_quick_up.png" Key="login_quick_up.png" />
+          </PlistImageFolder>
+          <Image Name="HelloWorld.png" />
+          <Image Name="loginbg.png" />
+        </Folder>
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
